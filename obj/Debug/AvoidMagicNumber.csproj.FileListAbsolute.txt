@@ -1,0 +1,8 @@
+C:\Users\acer\source\repos\AvoidMagicNumber\bin\Debug\AvoidMagicNumber.exe.config
+C:\Users\acer\source\repos\AvoidMagicNumber\bin\Debug\AvoidMagicNumber.exe
+C:\Users\acer\source\repos\AvoidMagicNumber\bin\Debug\AvoidMagicNumber.pdb
+C:\Users\acer\source\repos\AvoidMagicNumber\obj\Debug\AvoidMagicNumber.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\AvoidMagicNumber\obj\Debug\AvoidMagicNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\source\repos\AvoidMagicNumber\obj\Debug\AvoidMagicNumber.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\AvoidMagicNumber\obj\Debug\AvoidMagicNumber.exe
+C:\Users\acer\source\repos\AvoidMagicNumber\obj\Debug\AvoidMagicNumber.pdb
